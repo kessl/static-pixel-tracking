@@ -1,4 +1,6 @@
 .DS_Store
 goaccess/access.log
-goaccess/index.html
+goaccess/html/index.html
 log
+certbot
+
